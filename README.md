@@ -2,7 +2,7 @@
 
 ### What is this repository for? ###
 
-* Repository to present a api solution.
+* Repository to present an api solution.
 * Version 1.0
 
 ### How do I get set up? ###
